@@ -34,6 +34,7 @@ Assista aqui o [vídeo]() demonstrando as funcionalidades do aplicativo.
 - `Personalização de tema`: modificação de cores para o tema do App
 - `Firebase Authentication`: autenticação de usuário
 - `AdMob`: monetização app para mobile
+- `Retrofit`: consumo de API
 
 <h3>Tecnologias utilizadas</h3>
 
