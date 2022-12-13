@@ -79,7 +79,7 @@ Tarefas e etapas realizadas para o desenvolvimento do aplicativo.
 - Criar botão e funcionalidade de logout (sair)
 
 ### Banco de Dados
-- Utilizar armazenagem no Firebase
+- Utilizar armazenamento remoto (Firebase)
 
 ### Monetização
 - Adicionar monetização fremium
