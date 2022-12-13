@@ -5,7 +5,7 @@
 # :fork_and_knife: Receita Mágica - Aplicativo de receitas
 Aplicativo de receitas desenvolvido para a disciplina de Projeto de Bloco: Desenvolvimento Android, Instituto Infnet (4T.2022).
 
-**Motivo:**
+**Motivo:** A motivação do aplicativo é facilitar a listagem de receitas do usuário.
 
 <h3>Requisitos</h3>
 
