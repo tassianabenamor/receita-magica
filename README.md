@@ -18,7 +18,7 @@ Para baixar o aplicativo no seu dispositivo Android, acesse a [Play Store](https
 Assista aqui o [vídeo]() demonstrando as funcionalidades do aplicativo.
 
 - Cadastro e autenticação de usuário utilizando Firebase;
-- Consula de receitas cadastradas;
+- Consulta de receitas cadastradas;
 - Adicionar, deletar e editar receitas.
 
 ## ✔️ Técnicas e tecnologias utilizadas
