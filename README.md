@@ -23,7 +23,7 @@ Assista aqui o [vídeo]() demonstrando as funcionalidades do aplicativo.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-<h3>As técnicas utilizadas pra isso são:</h3>
+<h3>As técnicas utilizadas para isso são:</h3>
 
 - `CardView`: container para apresentar cada produto na lista de receitas
 - `RecyclerView`: listagem das receitas
