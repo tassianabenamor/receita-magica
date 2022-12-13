@@ -56,7 +56,7 @@ Segue abaixo o time de desenvolvimento com suas respectivas atibuições:
 
 ## Product Backlog
 
-Tarefas e etapas realizadas para o desenvolvimento do aplicativo e suas respectivas histórias de usuário.
+Tarefas e etapas realizadas para o desenvolvimento do aplicativo.
 
 ### Estilização do aplicativo
 - Colocar cores no app;
