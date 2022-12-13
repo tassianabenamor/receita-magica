@@ -74,8 +74,7 @@ O modelo de negócios escolhido foi o Freemium. Para a implementação deste mod
 
 ### Telas de receitas e cadastro de novas receitas
 
-
-
+![image](https://user-images.githubusercontent.com/87051404/207329745-3905cab2-8a33-43ac-9d1c-f134cb798ce4.png)
 
 <hr>
 
