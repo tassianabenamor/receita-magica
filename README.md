@@ -17,9 +17,9 @@ Para baixar o aplicativo no seu dispositivo Android, acesse a [Play Store](https
 
 Assista aqui o [vídeo]() demonstrando as funcionalidades do aplicativo.
 
-- Cadastro e autenticação de usuário utilizando Firebase;
-- Consulta de receitas cadastradas;
-- Adicionar, deletar e editar receitas.
+- Cadastro e autenticação de usuário utilizando Firebase
+- Consulta de receitas cadastradas
+- Adicionar, deletar e editar receitas
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
@@ -60,7 +60,7 @@ Segue abaixo o time de desenvolvimento com suas respectivas atibuições:
 Tarefas e etapas realizadas para o desenvolvimento do aplicativo.
 
 ### Estilização do aplicativo
-- Colocar cores no app;
+- Colocar cores no app
 
 ### Lista de receitas - cadastrar, editar, visualizar e excluir
 - Criar tela de lista de receitas
