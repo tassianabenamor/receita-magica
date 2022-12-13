@@ -30,6 +30,7 @@ Assista aqui o [vídeo]() demonstrando as funcionalidades do aplicativo.
 - `ImageView`: View para apresentar imagens no App
 - `View Binding`: busca de views do layout de forma segura
 - `Personalização de tema`: modificação de cores para o tema do App
+-  `Firebase Authentication`: autenticação de usuário
 
 <h3>Tecnologias utilizadas</h3>
 
@@ -60,27 +61,27 @@ Tarefas e etapas realizadas para o desenvolvimento do aplicativo.
 - Colocar cores no app;
 
 ### Lista de receitas - cadastrar, editar, visualizar e excluir
-- Criar tela de lista de receitas;
-- Criar tela de cadastrar nova receita;
-- Adicionar um botão de cadastro de nova receita;
-- Permitir acesso a arquivos remotos;
-- Adicionar receitas criadas ao armazenamento remoto;
-- Adicionar listagem de receitas do armazenamento remoto;
-- Visualizar uma receita;
-- Editar uma receita;
-- Excluir uma receita.
+- Criar tela de lista de receitas
+- Criar tela de cadastrar nova receita
+- Adicionar um botão de cadastro de nova receita
+- Permitir acesso a arquivos remotos
+- Adicionar receitas criadas ao armazenamento remoto
+- Adicionar listagem de receitas do armazenamento remoto
+- Visualizar uma receita
+- Editar uma receita
+- Excluir uma receita
 
 ### Autenticação de usuário
-- Criar tela, botão e funcionalidade de login;
-- Criar tela, botão e funcionalidade de cadastro;
-- Criar botão e funcionalidade de logout (sair).
+- Criar tela, botão e funcionalidade de login
+- Criar tela, botão e funcionalidade de cadastro
+- Criar botão e funcionalidade de logout (sair)
 
 ### Banco de Dados
 - Utilizar armazenagem no Firebase
 
 ### Monetização
-- Adicionar monetização fremium;
-- Adicionar banner a tela.
+- Adicionar monetização fremium
+- Adicionar banner a tela
 
 ## :money_with_wings: Modelo de negócios
 
