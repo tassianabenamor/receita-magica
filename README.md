@@ -68,8 +68,15 @@ Tarefas e etapas realizadas para o desenvolvimento do aplicativo e suas respecti
 
 ### Autenticação de usuário
 - Criar tela de login;
-- Criar tela de cadastro
+- Criar botão de login;
+- Criar funcionalidade de login;
+- Criar tela de cadastro;
+- Criar botão de cadastro;
+- Criar funcionalidade de cadastro.
 
+
+### Monetização
+- Adicionar monetização fremium.
 
 
 <!--
