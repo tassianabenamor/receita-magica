@@ -75,7 +75,7 @@ Tarefas e etapas realizadas para o desenvolvimento do aplicativo.
 ### Autenticação de usuário
 - Criar tela, botão e funcionalidade de login;
 - Criar tela, botão e funcionalidade de cadastro;
-- Criar tela, botão e funcionalidade de logout (sair).
+- Criar botão e funcionalidade de logout (sair).
 
 ### Banco de Dados
 - Utilizar armazenagem no Firebase
