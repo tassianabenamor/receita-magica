@@ -25,10 +25,12 @@ Assista aqui o [vídeo]() demonstrando as funcionalidades do aplicativo.
 
 <h3>As técnicas utilizadas pra isso são:</h3>
 
-- `RecyclerView`: listagem das produtos
+- `CardView`: container para apresentar cada produto na lista de receitas
+- `RecyclerView`: listagem das receitas
 - `ConstraintLayout`: ViewGroup padrão para implementar todos os layouts
 - `ImageView`: View para apresentar imagens no App
 - `View Binding`: busca de views do layout de forma segura
+- `Toast`: Exibição de mensagem comunicando o sucesso da ação tomada pelo usuário
 - `Personalização de tema`: modificação de cores para o tema do App
 -  `Firebase Authentication`: autenticação de usuário
 
@@ -96,6 +98,15 @@ O modelo de negócios escolhido foi o Freemium. Para a implementação deste mod
 ### Telas de receitas e cadastro de novas receitas
 
 ![image](https://user-images.githubusercontent.com/87051404/207329745-3905cab2-8a33-43ac-9d1c-f134cb798ce4.png)
+
+## :robot: Abrir e rodar o projeto
+
+Após baixar o projeto, você pode abrir utilizando o Android Studio. Para isso, na tela de launcher, clique em:
+- Open an Existing Project
+- Encontre o local em que o projeto está e o selecione. Se o projeto estiver no formato zip, será necessário extraí-lo antes de realizar a busca pelo arquivo
+- Por último, clique em OK
+
+O Android Studio deve executar algumas tasks do Gradle para configuração do projeto. Espere as tasks finalizarem. Após finalizar, o app Receita Mágica pode ser executado.
 
 <hr>
 
