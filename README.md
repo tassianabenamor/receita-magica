@@ -49,11 +49,11 @@ A metodologia ágil utilizada foi a Scrum. Em alguns momentos também realizamos
 
 Segue abaixo o time de desenvolvimento com suas respectivas atibuições:
 
-- [Ciro Volpe](https://www.linkedin.com/in/cirodellavolpe/): Product Owner e Desenvolvedor;
-- [Tassiana Benamor](https://www.linkedin.com/in/tassiana-benamor/): Desenvolvedora;
-- [Eduardo Macedo](https://www.linkedin.com/in/eduardo-mello-de-macedo-28ab8b198/): Desenvolvedor;
-- [Germano Nascimento](https://www.linkedin.com/in/germanonascimento/): Desenvolvedor;
-- [Leticia Barbosa](https://www.linkedin.com/in/let%C3%ADcia-barbosaa/): Desenvolvedora.
+- [Ciro Volpe](https://www.linkedin.com/in/cirodellavolpe/): Product Owner e Desenvolvedor
+- [Tassiana Benamor](https://www.linkedin.com/in/tassiana-benamor/): Desenvolvedora
+- [Eduardo Macedo](https://www.linkedin.com/in/eduardo-mello-de-macedo-28ab8b198/): Desenvolvedor
+- [Germano Nascimento](https://www.linkedin.com/in/germanonascimento/): Desenvolvedor
+- [Leticia Barbosa](https://www.linkedin.com/in/let%C3%ADcia-barbosaa/): Desenvolvedora
 
 ## Product Backlog
 
