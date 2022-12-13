@@ -58,3 +58,12 @@ Para conhecer como separamos o desenvolvimento do GratiApp em etapas, acesse nos
 ## :money_with_wings: Modelo de negócios
 
 O modelo de negócios escolhido foi o Freemium. Para a implementação deste modelo de negócios será implementada a API de In-App Billing utilizando a Google Play Library. A escolha desse modelo foi feita a partir da principal premissa de deixar o app acessível para todos os públicos, dando uma experiência integral de nosso fluxo. Isso combina com a temática mindfull que permeia. Os ads serão implementados por meio de banners ao longo da rotina do usuário. O modelo de cobrança para o aplicativo será por recorrência mensal e anual, para retirar banners e anúncios.
+
+## :computer: Telas
+
+[em breve]
+
+
+<hr>
+
+*Trabalho em grupo para a disciplina Projeto de Bloco: Desenvolvimento Android, Instituto Infnet (4T.2022).*
