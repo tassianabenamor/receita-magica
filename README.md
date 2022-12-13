@@ -68,11 +68,11 @@ O modelo de negócios escolhido foi o Freemium. Para a implementação deste mod
 
 ## :computer: Telas
 
-## Telas de login e cadastro de usuário
+### Telas de login e cadastro de usuário
 
 ![image](https://user-images.githubusercontent.com/87051404/207328295-5d420f60-743c-45fa-a11d-fb1e1ca87687.png)
 
-## Telas de receitas e cadastro de novas receitas
+### Telas de receitas e cadastro de novas receitas
 
 
 
