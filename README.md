@@ -68,7 +68,7 @@ Tarefas e etapas realizadas para o desenvolvimento do aplicativo e suas respecti
 
 ### Autenticação de usuário
 - Criar tela de login;
-- 
+- Criar tela de cadastro
 
 
 
