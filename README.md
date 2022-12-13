@@ -73,6 +73,7 @@ Tarefas e etapas realizadas para o desenvolvimento do aplicativo e suas respecti
 - Criar tela de cadastro;
 - Criar botão de cadastro;
 - Criar funcionalidade de cadastro.
+- Desenvolver botão de logout (sair)
 
 
 ### Monetização
