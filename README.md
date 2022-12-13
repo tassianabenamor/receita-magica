@@ -106,7 +106,11 @@ Após baixar o projeto, você pode abrir utilizando o Android Studio. Para isso,
 - Encontre o local em que o projeto está e o selecione. Se o projeto estiver no formato zip, será necessário extraí-lo antes de realizar a busca pelo arquivo
 - Por último, clique em OK
 
-O Android Studio deve executar algumas tasks do Gradle para configuração do projeto. Espere as tasks finalizarem. Após finalizar, o app Receita Mágica pode ser executado.
+### Observação
+
+O Android Studio deve executar algumas tasks do Gradle para configuração do projeto. 
+
+Após as tasks finalizarem, o app Receita Mágica pode ser executado.
 
 <hr>
 
