@@ -55,7 +55,7 @@ Segue abaixo o time de desenvolvimento com suas respectivas atibuições:
 - [Germano Nascimento](https://www.linkedin.com/in/germanonascimento/): Desenvolvedor
 - [Leticia Barbosa](https://www.linkedin.com/in/let%C3%ADcia-barbosaa/): Desenvolvedora
 
-## Product Backlog
+## :pencil: Product Backlog
 
 Tarefas e etapas realizadas para o desenvolvimento do aplicativo.
 
