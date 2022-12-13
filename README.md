@@ -54,9 +54,22 @@ Segue abaixo o time de desenvolvimento com suas respectivas atibuições:
 - [Germano Nascimento](https://www.linkedin.com/in/germanonascimento/): Desenvolvedor;
 - [Leticia Barbosa](https://www.linkedin.com/in/let%C3%ADcia-barbosaa/): Desenvolvedora.
 
-### Product Backlog
+## Product Backlog
 
-[em breve]
+Tarefas e etapas realizadas para o desenvolvimento do aplicativo e suas respectivas histórias de usuário.
+
+### Estilização do aplicativo
+- Colocar cores no app;
+
+### Lista de receitas - editar, visualizar e excluir
+- Criar tela de lista de receitas;
+- Criar tela de cadastrar nova receita;
+- Adicionar um botão de cadastro de nova receita;
+
+### Autenticação de usuário
+- Criar tela de login;
+- 
+
 
 
 <!--
