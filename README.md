@@ -32,7 +32,8 @@ Assista aqui o [vídeo]() demonstrando as funcionalidades do aplicativo.
 - `View Binding`: busca de views do layout de forma segura
 - `Toast`: Exibição de mensagem comunicando o sucesso da ação tomada pelo usuário
 - `Personalização de tema`: modificação de cores para o tema do App
--  `Firebase Authentication`: autenticação de usuário
+- `Firebase Authentication`: autenticação de usuário
+- `AdMob`: monetização app para mobile
 
 <h3>Tecnologias utilizadas</h3>
 
@@ -82,8 +83,7 @@ Tarefas e etapas realizadas para o desenvolvimento do aplicativo.
 - Utilizar armazenamento remoto (Firebase)
 
 ### Monetização
-- Adicionar monetização fremium
-- Adicionar banner a tela
+- Adicionar banner a tela (monetização)
 
 ## :money_with_wings: Modelo de negócios
 
