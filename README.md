@@ -61,29 +61,25 @@ Tarefas e etapas realizadas para o desenvolvimento do aplicativo e suas respecti
 ### Estilização do aplicativo
 - Colocar cores no app;
 
-### Lista de receitas - editar, visualizar e excluir
+### Lista de receitas - cadastrar, editar, visualizar e excluir
 - Criar tela de lista de receitas;
 - Criar tela de cadastrar nova receita;
 - Adicionar um botão de cadastro de nova receita;
+- Permitir acesso a arquivos externos;
+- Adicionar receitas criadas ao armazenamento externo;
+- Adicionar listagem de receitas do armazenamento externo;
+- Visualizar uma receita;
+- Editar uma receita;
+- Excluir uma receita.
 
 ### Autenticação de usuário
-- Criar tela de login;
-- Criar botão de login;
-- Criar funcionalidade de login;
-- Criar tela de cadastro;
-- Criar botão de cadastro;
-- Criar funcionalidade de cadastro.
-- Desenvolver botão de logout (sair)
-
+- Criar tela, botão e funcionalidade de login;
+- Criar tela, botão e funcionalidade de cadastro;
+- Criar tela, botão e funcionalidade de logout (sair).
 
 ### Monetização
-- Adicionar monetização fremium.
-
-
-<!--
-<h3>Product Backlog</h3>
-
-Para conhecer como separamos o desenvolvimento do GratiApp em etapas, acesse nossa página no [Notion](https://tassi.notion.site/Backlog-de-Tarefas-94ba072ba0e44e4cbe8417aeab31355e) sobre o assunto. -->
+- Adicionar monetização fremium;
+- Adicionar banner a tela.
 
 ## :money_with_wings: Modelo de negócios
 
