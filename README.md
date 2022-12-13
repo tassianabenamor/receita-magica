@@ -1,5 +1,5 @@
 <p align="center">
-<img width=250 src="https://user-images.githubusercontent.com/87051404/207320811-968baf4a-48d3-4a95-8864-8566abb6e334.png" /></br>
+<img width=200 src="https://user-images.githubusercontent.com/87051404/207320811-968baf4a-48d3-4a95-8864-8566abb6e334.png" /></br>
 </p>
 
 # :fork_and_knife: Receita Mágica - Aplicativo de receitas
