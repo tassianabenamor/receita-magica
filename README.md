@@ -65,9 +65,9 @@ Tarefas e etapas realizadas para o desenvolvimento do aplicativo e suas respecti
 - Criar tela de lista de receitas;
 - Criar tela de cadastrar nova receita;
 - Adicionar um botão de cadastro de nova receita;
-- Permitir acesso a arquivos externos;
-- Adicionar receitas criadas ao armazenamento externo;
-- Adicionar listagem de receitas do armazenamento externo;
+- Permitir acesso a arquivos remotos;
+- Adicionar receitas criadas ao armazenamento remoto;
+- Adicionar listagem de receitas do armazenamento remoto;
 - Visualizar uma receita;
 - Editar uma receita;
 - Excluir uma receita.
