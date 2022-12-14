@@ -64,6 +64,11 @@ Tarefas e etapas realizadas para o desenvolvimento do aplicativo.
 ### Estilização do aplicativo
 - Colocar cores no app
 
+### Autenticação de usuário
+- Criar tela, botão e funcionalidade de login
+- Criar tela, botão e funcionalidade de cadastro
+- Criar botão e funcionalidade de logout (sair)
+
 ### Lista de receitas - cadastrar, editar, visualizar e excluir
 - Criar tela de lista de receitas
 - Criar tela de cadastrar nova receita
@@ -75,16 +80,11 @@ Tarefas e etapas realizadas para o desenvolvimento do aplicativo.
 - Editar uma receita
 - Excluir uma receita
 
-### Autenticação de usuário
-- Criar tela, botão e funcionalidade de login
-- Criar tela, botão e funcionalidade de cadastro
-- Criar botão e funcionalidade de logout (sair)
-
 ### Banco de Dados
 - Utilizar armazenamento remoto (Firebase)
 
 ### Monetização
-- Adicionar banner a tela (monetização)
+- Adicionar banner a tela (AdMob)
 
 ## :money_with_wings: Modelo de negócios
 
