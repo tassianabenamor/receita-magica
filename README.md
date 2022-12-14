@@ -66,7 +66,7 @@ Tarefas e etapas realizadas para o desenvolvimento do aplicativo.
 
 ## ✔️ Técnicas, tecnologias e linguagens utilizadas
 
-###  As técnicas utilizadas para isso são
+### As técnicas utilizadas para isso são
 
 - `CardView`: container para apresentar cada produto na lista de receitas
 - `RecyclerView`: listagem das receitas
@@ -120,10 +120,10 @@ Após baixar o projeto, você pode abri-lo utilizando o Android Studio. Para iss
 
 ### Observação
 
-- O Android Studio deve executar algumas tasks do Gradle para configuração do projeto. 
+O Android Studio deve executar algumas tasks do Gradle para configuração do projeto. 
 
 Após as tasks finalizarem, o app Receita Mágica pode ser executado.
-:)
+
 <hr>
 
 
