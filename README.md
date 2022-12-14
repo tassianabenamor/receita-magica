@@ -15,7 +15,7 @@ Para baixar o aplicativo no seu dispositivo Android, acesse a [Play Store](https
 
 <h3>Funcionalidades</h3>
 
-Assista aqui o [vídeo]() demonstrando as funcionalidades do aplicativo.
+Assista aqui o [vídeo](https://www.youtube.com/watch?v=02YIhLrPiDk) demonstrando as funcionalidades do aplicativo.
 
 - Cadastro e autenticação de usuário utilizando Firebase
 - Consulta de receitas cadastradas
