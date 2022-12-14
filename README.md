@@ -94,7 +94,7 @@ O modelo de negócios escolhido foi o Freemium. Para a implementação deste mod
 
 ### Telas de login e cadastro de usuário
 
-![image](https://user-images.githubusercontent.com/87051404/207630424-1a8c28ad-a33d-459c-9f97-9b679ac58638.png)
+![image](https://user-images.githubusercontent.com/87051404/207630907-b6c50075-6696-4e59-87a5-c3a2feb537ae.png)
 
 ### Telas de receitas e cadastro de novas receitas
 
