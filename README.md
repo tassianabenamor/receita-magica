@@ -104,7 +104,7 @@ Autenticação de usuário utilizando e-mail e senha
 
 ## :robot: Abrir e rodar o projeto
 
-Após baixar o projeto, você pode abrir utilizando o Android Studio. Para isso, na tela de launcher, clique em:
+Após baixar o projeto, você pode abri-lo utilizando o Android Studio. Para isso, na tela de launcher, clique em:
 - Open an Existing Project
 - Encontre o local em que o projeto está e o selecione. Se o projeto estiver no formato zip, será necessário extraí-lo antes de realizar a busca pelo arquivo
 - Por último, clique em OK
