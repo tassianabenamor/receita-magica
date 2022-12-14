@@ -40,6 +40,7 @@ Tarefas e etapas realizadas para o desenvolvimento do aplicativo.
 
 ### Estilização do aplicativo
 - Colocar cores no app
+- Adicionar logo a tela de autenticação
 
 ### Autenticação de usuário
 - Criar tela, botão e funcionalidade de login
