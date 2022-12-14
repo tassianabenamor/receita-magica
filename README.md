@@ -22,9 +22,9 @@ Assista aqui o [vídeo](https://www.youtube.com/watch?v=02YIhLrPiDk) demonstrand
 - Uso do nome do usuário após autenticação
 - Adicionar, visualizar, editar e avaliar receitas
 
-## ✔️ Técnicas e tecnologias utilizadas
+## ✔️ Técnicas, tecnologias e linguagens utilizadas
 
-<h3>As técnicas utilizadas para isso são:</h3>
+### As técnicas utilizadas para isso são
 
 - `CardView`: container para apresentar cada produto na lista de receitas
 - `RecyclerView`: listagem das receitas
@@ -33,13 +33,18 @@ Assista aqui o [vídeo](https://www.youtube.com/watch?v=02YIhLrPiDk) demonstrand
 - `View Binding`: busca de views do layout de forma segura
 - `Toast`: Exibição de mensagem comunicando o sucesso da ação tomada pelo usuário
 - `Personalização de tema`: modificação de cores para o tema do App
-- `Firebase Authentication`: autenticação de usuário
 - `AdMob`: monetização app para mobile
 - `Retrofit`: consumo de API
 
-<h3>Tecnologias utilizadas</h3>
+### Tecnologias utilizadas
 
-A IDE de desenvolvimento utilizada foi o Android Studio e as linguagens utilizadas foram:
+- `Android Studio`: IDE
+- `Firebase Authentication`: autenticação de usuário
+- `Firestore Database`: banco de dados remoto
+- `Realtime Database`: sincronização de dados em tempo real
+- `Storage`: armazenamento e vinculação de conteúdo gerado pelo usuário em nuvem
+
+### Linguagens utilizadas
 
 - `Kotlin`: Linguagem de programação
 - `XML`: Linguagem de marcação
