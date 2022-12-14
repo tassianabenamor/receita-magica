@@ -114,7 +114,7 @@ Após baixar o projeto, você pode abri-lo utilizando o Android Studio. Para iss
 O Android Studio deve executar algumas tasks do Gradle para configuração do projeto. 
 
 Após as tasks finalizarem, o app Receita Mágica pode ser executado.
-
+:)
 <hr>
 
 *Trabalho em grupo para a disciplina Projeto de Bloco: Desenvolvimento Android, Instituto Infnet (4T.2022).*
