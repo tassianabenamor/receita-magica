@@ -94,13 +94,15 @@ O modelo de negócios escolhido foi o Freemium. Para a implementação deste mod
 
 ### Telas de login e cadastro de usuário
 
-Autenticação de usuário utilizando e-mail e senha
 
-![image](https://user-images.githubusercontent.com/87051404/207328295-5d420f60-743c-45fa-a11d-fb1e1ca87687.png)
 
 ### Telas de receitas e cadastro de novas receitas
 
-![image](https://user-images.githubusercontent.com/87051404/207329745-3905cab2-8a33-43ac-9d1c-f134cb798ce4.png)
+
+
+### Telas de visualizar, avaliar e editar receita
+
+
 
 ## :robot: Abrir e rodar o projeto
 
