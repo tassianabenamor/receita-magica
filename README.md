@@ -7,13 +7,13 @@ Aplicativo de receitas desenvolvido para a disciplina de Projeto de Bloco: Desen
 
 **Motivo:** A motivação do aplicativo é facilitar a listagem de receitas do usuário.
 
-<h3>Requisitos</h3>
+### Requisitos
 
 Utilização de smartphone com sistema operacional Android para executar o aplicativo ou simulado com tal capacidade. 
 
 Para baixar o aplicativo no seu dispositivo Android, acesse a [Play Store](https://play.google.com/store/apps/developer?id=Aluno+Infnet&hl=pt_PT&gl=US).
 
-<h3>Funcionalidades</h3>
+### Funcionalidades
 
 Assista aqui o [vídeo](https://www.youtube.com/watch?v=02YIhLrPiDk) demonstrando as funcionalidades do aplicativo.
 
@@ -21,35 +21,6 @@ Assista aqui o [vídeo](https://www.youtube.com/watch?v=02YIhLrPiDk) demonstrand
 - Consumo de API para consulta de endereço do usuário
 - Uso do nome do usuário após autenticação
 - Adicionar, visualizar, editar e avaliar receitas
-
-## ✔️ Técnicas, tecnologias e linguagens utilizadas
-
-### As técnicas utilizadas para isso são
-
-- `CardView`: container para apresentar cada produto na lista de receitas
-- `RecyclerView`: listagem das receitas
-- `ConstraintLayout`: ViewGroup padrão para implementar todos os layouts
-- `ImageView`: View para apresentar imagens no App
-- `View Binding`: busca de views do layout de forma segura
-- `Toast`: Exibição de mensagem comunicando o sucesso da ação tomada pelo usuário
-- `Personalização de tema`: modificação de cores para o tema do App
-- `AdMob`: monetização app para mobile
-- `Retrofit`: consumo de API
-
-### Tecnologias utilizadas
-
-- `Android Studio`: IDE
-- `Firebase Authentication`: autenticação de usuário
-- `Firestore Database`: banco de dados remoto
-- `Realtime Database`: sincronização de dados em tempo real
-- `Storage`: armazenamento e vinculação de conteúdo gerado pelo usuário em nuvem
-
-### Linguagens utilizadas
-
-- `Kotlin`: Linguagem de programação
-- `XML`: Linguagem de marcação
-
-*Nenhum framework foi utilizado*
 
 ## :dart: Metodologia ágil - Scrum
 
@@ -91,6 +62,35 @@ Tarefas e etapas realizadas para o desenvolvimento do aplicativo.
 
 ### Monetização
 - Adicionar banner a tela (AdMob)
+
+## ✔️ Técnicas, tecnologias e linguagens utilizadas
+
+### As técnicas utilizadas para isso são
+
+- `CardView`: container para apresentar cada produto na lista de receitas
+- `RecyclerView`: listagem das receitas
+- `ConstraintLayout`: ViewGroup padrão para implementar todos os layouts
+- `ImageView`: View para apresentar imagens no App
+- `View Binding`: busca de views do layout de forma segura
+- `Toast`: Exibição de mensagem comunicando o sucesso da ação tomada pelo usuário
+- `Personalização de tema`: modificação de cores para o tema do App
+- `AdMob`: monetização app para mobile
+- `Retrofit`: consumo de API
+
+### Tecnologias utilizadas
+
+- `Android Studio`: IDE
+- `Firebase Authentication`: autenticação de usuário
+- `Firestore Database`: banco de dados remoto
+- `Realtime Database`: sincronização de dados em tempo real
+- `Storage`: armazenamento e vinculação de conteúdo gerado pelo usuário em nuvem
+
+### Linguagens utilizadas
+
+- `Kotlin`: Linguagem de programação
+- `XML`: Linguagem de marcação
+
+*Nenhum framework foi utilizado*
 
 ## :money_with_wings: Modelo de negócios
 
