@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.RegisterAvaliacaoFragment">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginTop="24dp"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:text="Qual a sua avaliação para" />
+
+        <TextView
+            android:id="@+id/tv_nome_receita"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginTop="24dp"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:text="Nome da Fabulosa Receita" />
+
+
+        <RatingBar
+            android:id="@+id/rtb_nota"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:numStars="5"
+            android:progressTint="#FFC107"
+            android:secondaryProgressTint="#C3C3C3"
+            android:stepSize="1"
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"/>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/input_usuario_nome"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Seu nome" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <EditText
+            android:id="@+id/input_descricao"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:ems="10"
+            android:inputType="text|textMultiLine"
+            android:gravity="top"
+            android:hint="Comentário" />
+
+        <Button
+            android:id="@+id/btn_register_avaliacao"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Avaliar" />
+
+    </LinearLayout>
+
+</FrameLayout>

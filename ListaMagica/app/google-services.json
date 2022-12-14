@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189642770409",
+    "project_id": "lista-magica-79c28",
+    "storage_bucket": "lista-magica-79c28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189642770409:android:15fae4fc18c0a731f62d78",
+        "android_client_info": {
+          "package_name": "br.com.infnet.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189642770409-jtr072360d721ak1iph5die6jjojunel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP3NLJyaBVUdyQpxEzI0hB5ZYQTOweN9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189642770409-jtr072360d721ak1iph5die6jjojunel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

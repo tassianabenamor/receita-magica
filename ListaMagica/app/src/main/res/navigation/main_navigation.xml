@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="br.com.infnet.myapplication.fragments.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_to_receitaFragment"
+            app:destination="@id/receitaFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/receitaFragment"
+        android:name="br.com.infnet.myapplication.fragments.ReceitaFragment"
+        android:label="fragment_receita"
+        tools:layout="@layout/fragment_receita" >
+        <action
+            android:id="@+id/action_receitaFragment_to_registerReceitaFragment"
+            app:destination="@id/registerReceitaFragment" />
+        <action
+            android:id="@+id/action_receitaFragment_to_editReceitaFragment"
+            app:destination="@id/editReceitaFragment" />
+        <action
+            android:id="@+id/action_receitaFragment_to_viewReceitaFragment"
+            app:destination="@id/viewReceitaFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/registerReceitaFragment"
+        android:name="br.com.infnet.myapplication.fragments.RegisterReceitaFragment"
+        android:label="RegisterReceitaFragment" />
+    <fragment
+        android:id="@+id/editReceitaFragment"
+        android:name="br.com.infnet.myapplication.fragments.EditReceitaFragment"
+        android:label="fragment_edit_receita"
+        tools:layout="@layout/fragment_edit_receita" />
+    <fragment
+        android:id="@+id/viewReceitaFragment"
+        android:name="br.com.infnet.myapplication.fragments.ViewReceitaFragment"
+        android:label="fragment_view_receita"
+        tools:layout="@layout/fragment_view_receita" >
+        <action
+            android:id="@+id/action_viewReceitaFragment_to_registerAvaliacaoFragment"
+            app:destination="@id/registerAvaliacaoFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/registerAvaliacaoFragment"
+        android:name="br.com.infnet.myapplication.fragments.RegisterAvaliacaoFragment"
+        android:label="fragment_register_avaliacao"
+        tools:layout="@layout/fragment_register_avaliacao" >
+        <argument
+            android:name="receita_id"
+            app:argType="string" />
+    </fragment>
+</navigation>
