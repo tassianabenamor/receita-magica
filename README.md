@@ -11,8 +11,9 @@ Aplicativo de receitas desenvolvido para a disciplina de Projeto de Bloco: Desen
 
 Utilização de smartphone com sistema operacional Android para executar o aplicativo ou simulado com tal capacidade. 
 
+<!--
 Para baixar o aplicativo no seu dispositivo Android, acesse a [Play Store](https://play.google.com/store/apps/developer?id=Aluno+Infnet&hl=pt_PT&gl=US) (em breve).
-
+-->
 ### Funcionalidades
 
 Assista aqui o [vídeo](https://www.youtube.com/watch?v=02YIhLrPiDk) demonstrando as funcionalidades do aplicativo.
